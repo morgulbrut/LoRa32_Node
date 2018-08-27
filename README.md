@@ -6,14 +6,16 @@ some examples can be found over there: https://github.com/morgulbrut/LoRa32_Work
 
 ## Features
 
- * DHT11 sensor
- * 18650 battery holder
- * Shitty Addon Connector
- * Piece to break out and use as an antenna mount
- * Designed in the Canton of Glarus
+ * DHT11 sensor.
+ * 18650 battery holder.
+ * Shitty Addon Connector.
+ * Piece to break out and use as an antenna mount.
+ * Designed in the Canton of Glarus.
 
 ## TODO/Problems
 
- * DHT11 are super inaccurate, replace with at least DHT21
- * Different pinout on the power pins. Add some 0R
- * Add battery measurement
+There are some different Versions around which aren't not totally pin compatible on some power pins.
+
+ * DHT11 are super inaccurate, replace with at least DHT21.
+ * Add some 0R on those incompatible pins.
+ * Add battery measurement.
