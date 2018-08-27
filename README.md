@@ -2,6 +2,8 @@
 
 A simple breakoutboard / antenna mount for those cool, inexpensive Heltec LoRa32.
 
+some examples can be found over there: https://github.com/morgulbrut/LoRa32_Workshop
+
 ## Features
 
  * DHT11 sensor
