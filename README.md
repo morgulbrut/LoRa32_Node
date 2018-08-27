@@ -14,3 +14,4 @@ A simple breakoutboard / antenna mount for those cool, inexpensive Heltec LoRa32
 
  * DHT11 are super inaccurate, replace with at least DHT21
  * Different pinout on the power pins. Add some 0R
+ * Add battery measurement
